@@ -6,9 +6,9 @@
   
  "AdsController": {
       
-    "BannerNetwork"           : "huawei",
-    "InterstitialNetwork"     : "unity",
-    "NativeNetwork"           : "huawei",
+    "BannerNetwork"           : "yandex",
+    "InterstitialNetwork"     : "yandex",
+    "NativeNetwork"           : "yandex",
     "OpenAdNetwork"           : "yandex",
    
     "IntervalClick"           : 1,
